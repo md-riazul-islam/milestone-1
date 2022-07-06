@@ -1,0 +1,148 @@
+body{
+    font-family: 'Gentium Book Plus', serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+margin: 0%;
+}
+section{
+    margin-bottom: 100px;
+}
+.container{
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/donation5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    
+}
+.sub-container{
+    text-align: center;
+}
+.color{
+    color: white;
+    margin-top: -10px;
+}
+.colors{
+    color: white;
+}
+.p-handle{
+    margin-top: -10px;
+}
+.h1-handle{
+    font-size: 28px;
+    font-weight: bold;
+}
+.container .sub-container h1{
+    font-size: 40px;
+}
+#link-button{
+    text-decoration: none;
+    margin: 5px;
+    padding: 10px 20px;
+    background-color: #FF5959;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+}
+.second-main{
+    width: 100%;
+    text-align: center;
+}
+.sub-donate{
+    text-align: center;
+}
+.donate{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#tk{
+    text-decoration: none;
+    color: #707070;
+    padding: 32px 32px;
+    margin:20px;
+    background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1));
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 6px;
+}
+.box{
+    margin-top: 90px;
+    text-align: center;
+}
+.pinded{
+    border: 2px solid #FF5959;
+    background-color: #FFEEEE;
+    color: #FF5959;
+    text-decoration: none;
+    color: #707070;
+    padding: 32px 32px;
+    margin:20px;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 6px;
+}
+.other{
+    text-align: center;
+    color: #707070;
+}
+hr{
+    width: 80%;
+    text-align: center;
+}
+.button{
+    width: 100%;
+    text-align: center;
+}
+
+.donate-plan{
+    width: 100%;
+    text-align: center;
+}
+.card-area{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
+.card-1{
+    width: 310px;
+    background-color: #EDF5F6;
+    margin: 10px;
+    border: 5px solid  #EDF5F6;
+    border-radius: 8px;
+}
+.card-2{
+    width: 310px;
+    background-color: #FFEEEE;
+    margin: 10px;
+    border: 5px solid #FFEEEE;
+    border-radius: 8px;
+}
+.card-3{
+    width: 310px;
+    background-color: #FFF4D6;
+    margin: 10px;
+    border: 5px solid #FFF4D6;
+    border-radius: 8px;
+}
+footer{
+    width: 100%;
+    background-color: black;    
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+footer h3{
+    color: red;
+}
+footer p{
+    color: white;
+}
+
